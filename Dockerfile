@@ -1,4 +1,6 @@
 FROM ubuntu:latest
+LABEL maintainer="github@fabi.online"
+
 RUN apt update && \
     apt install -y \
     python3 \

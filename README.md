@@ -1,7 +1,7 @@
 
 # transformers-serve
 
-A simple docker image to serve Hugging Face Transformers models
+A simple docker image to serve Hugging Face Transformers models.
 
 ## Example
 
